@@ -1,2 +1,0 @@
-# moondoggle
-Spectrum Measurement
